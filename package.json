@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Tests passing!'"
+    "test": "echo 'Tests passing!'",
+    "build:fab": "fab-static src"
   },
   "keywords": [],
   "author": "",
