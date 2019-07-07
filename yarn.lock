@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@fab/compile@^0.2.0":
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/@fab/compile/-/compile-0.2.2.tgz#a425ff044074d49524cbbf3a9164d106dea35160"
+"@fab/compile@^0.3.0-0":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@fab/compile/-/compile-0.3.1.tgz#2388829c087dff64f9dd6a15cac641ae531ccd01"
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"
@@ -23,11 +23,11 @@
     typescript "^3.3.1"
     webpack "^4.29.0"
 
-"@fab/static@^0.1.4":
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/@fab/static/-/static-0.1.4.tgz#4339487a65f352c0571b20b3adf809c0fe9b2f57"
+"@fab/static@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@fab/static/-/static-0.1.6.tgz#7048ae20d243ee09cf9450e2bfee128e21cb5792"
   dependencies:
-    "@fab/compile" "^0.2.0"
+    "@fab/compile" "^0.3.0-0"
     "@oclif/command" "^1"
     "@oclif/config" "^1"
     "@oclif/plugin-help" "^2"
